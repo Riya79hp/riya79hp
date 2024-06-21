@@ -9,6 +9,12 @@
 
 - 🌱 I’m currently learning **AWS,TensorFlow,ML,DL,OpenCV**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Riya79hp](https://github.com/Riya79hp)
+
+- 💬 Ask me about **Full-stack dev tools, Chrome Extension ,DSA, Debugging ,Hardware tech integration , Coding optimisations, Query and DBMS optimisations**
+
+- 📫 How to reach me **riyaiitian790@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/riya-kumari-80136b28a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-kumari-80136b28a" height="30" width="40" /></a>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Riya Kumari.</h1>
 <h3 align="center">A passionate full-stack developer from India , I like code optimization and possess strong debugging skills. I believe in continuous self-growth and learning, and I am highly self-motivated</h3>
-
+img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&psig=AOvVaw0pQqYIVvkt-XevyAI9d1BC&ust=1719040274871000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCx7qeS7IYDFQAAAAAdAAAAABAE"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya79hp&label=Profile%20views&color=0e75b6&style=flat" alt="riya79hp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riya79hp" alt="riya79hp" /></a> </p>

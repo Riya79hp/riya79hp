@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riya Kumari</h1>
+<h1 align="center">Hi 👋, I am Riya Kumari, a passionate full stack developer. I specialize in code optimization and possess strong debugging skills. I believe in continuous self-growth and learning, and I am highly self-motivated.</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya79hp&label=Profile%20views&color=0e75b6&style=flat" alt="riya79hp" /> </p>

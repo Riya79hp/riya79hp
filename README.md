@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full-stack dev tools, Chrome Extension ,DSA, Debugging ,Hardware tech integration , Coding optimisations, Query and DBMS optimisations**
 
-- 📫 How to reach me **riyaiitian790@gmail.com**
+- 📫 How to reach me **riyacode790@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

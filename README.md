@@ -14,6 +14,8 @@
 - 💬 Ask me about **Full-stack dev tools, Chrome Extension ,DSA, Debugging ,Hardware tech integration , Coding optimisations, Query and DBMS optimisations**
 
 - 📫 How to reach me **riyacode790@gmail.com**
+  
+- 👨‍💻 My coding profile (Coding Ninjas)  **https://www.naukri.com/code360/profile/Riya_28**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

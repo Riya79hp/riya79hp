@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Trend Lens Myntra's fashion recommendation system**
 
-- 🌱 I’m currently learning **AWS,TensorFlow,ML,DL,OpenCV**
+- 🌱 I’m currently learning **AWS,TensorFlow,ML,DL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Riya79hp](https://github.com/Riya79hp)
 

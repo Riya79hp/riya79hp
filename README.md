@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riya79hp" alt="riya79hp" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
 
-- 🔭 I’m currently working on **Trend Lens Myntra's fashion recommendation system**
+- 🔭 I’m currently working on **Walmart hacakthon virtual store**
 
 - 🌱 I’m currently learning **AWS,TensorFlow,ML,DL**
 

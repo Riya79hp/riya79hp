@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/riya-kumari-80136b28a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-kumari-80136b28a" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/Riya_28" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_8ZS612bifUVsTyAAUpV64gd0sr27X6OIfw&s" alt="riya_28 (coding ninjas)" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/Riya_28" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcQ0tKfKF5cOCT387gBpF8uXNzRBuAHCyag&s" alt="riya_28 (coding ninjas)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

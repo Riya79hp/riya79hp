@@ -23,6 +23,8 @@
 <a href="https://linkedin.com/in/riya-kumari-80136b28a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-kumari-80136b28a" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/Riya_28" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcQ0tKfKF5cOCT387gBpF8uXNzRBuAHCyag&s" alt="riya_28 (coding ninjas)" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/u22cs028/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" alt="riya_28 (coding ninjas)" height="30" width="40" /></a>
+<a href="  https://codeforces.com/profile/u22cs028" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3LVEIg_6x2wqlPG8pruOUnUi-wEvnw1eC0w&s" alt="riya_28" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -16,10 +16,12 @@
 - 📫 How to reach me **riyacode790@gmail.com**
   
 - 👨‍💻 My coding profiles
-- **https://www.naukri.com/code360/profile/Riya_28** **Coding Ninjas**
+- 
 - **https://leetcode.com/u/u22cs028/** **Leetcode**
 - **https://codeforces.com/profile/u22cs028** **Codeforces**
+- 
 
+**https://www.naukri.com/code360/profile/Riya_28** **Coding Ninjas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

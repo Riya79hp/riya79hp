@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya79hp&show_icons=true&locale=en" alt="riya79hp" /></p>
 
-<p><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="riya79hp" style="width:'60px';height:'60px';" /><a src="https://github.com/Riya79hp"></a></p>
+<p><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="riya79hp"  width="40" height="40" /><a src="https://github.com/Riya79hp"></a></p>
